@@ -21,3 +21,14 @@ C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.dll
 C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\ref\Northwind.dll
 C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.pdb
 C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.genruntimeconfig.cache
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.RazorAssemblyInfo.cache
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.RazorAssemblyInfo.cs
+C:\Users\Andy\RiderProjects\Northwind\bin\Debug\net5.0\Northwind.Views.dll
+C:\Users\Andy\RiderProjects\Northwind\bin\Debug\net5.0\Northwind.Views.pdb
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.TagHelpers.input.cache
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.TagHelpers.output.cache
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.RazorCoreGenerate.cache
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.Views.pdb
+C:\Users\Andy\RiderProjects\Northwind\obj\Debug\net5.0\Northwind.csproj.CopyComplete

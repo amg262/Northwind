@@ -15617,6 +15617,27 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "Northwind",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Andy\\RiderProjects\\Northwind\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andy\\RiderProjects\\Northwind\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andy\\RiderProjects\\Northwind\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andy\\RiderProjects\\Northwind\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
